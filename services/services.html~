@@ -1,0 +1,76 @@
+
+<div class="container">
+	<div class="">
+		<div class="page-bg">
+			<img src="">
+		</div>
+		<div class="pt-5">
+			<h3 class="page-title"> OUR SERVICES</h3>
+		</div>
+		<h4>We offer a wide range of services from customs clearance on imported vehicles, Machinery, 		Equipment, All sorts of cargo to Freight forwarding to a wide range of global destinations.
+		</h4>
+	</div>
+	
+	<div class="row pt-5 pb-5">
+		<div class="col-md-6">
+			<h5 class="subt">CLEARING & FORWARDING</h5>
+			
+			<p>
+				We provide one of the fastest customs clearance services in the country and help thousands of clients save storage cost in their clearing and forwarding undertakings. We serve both companies and individuals and we provide services like clearance of vehicles to large fleets of cargo. Be aware of a online casino echtgeld deutschland. 
+			</p>
+		</div>
+		<!--end of first div part -->
+		
+		<div class="col-md-6">
+			<h5 class="subt">LOGISTICS SERVICES</h5>
+			
+			<p>
+				We offer a wide range of logistics services depending on the needs of our clients. We offer local as well as global logistics solutions for all kinds of cargo and parcels. Speed is always our ultimate strength when it comes to transporting and delivering the cargo to any destination.
+			</p>
+		
+		</div> <!--end of second div part-->
+	</div> <!-- end of the row-->
+</div>
+
+<div class="container">
+	
+	<h5 class="subt">AVAILABLE OPTIONS</h5>
+	<p>
+		We have a wide range of options for our clients to choose depending on their needs.
+	</p>
+	
+	<div class="row pb-5">
+		<div class="col-md-4">
+			<h5 class="subt">SEA FREIGHT</h5>
+			
+			<ul>
+				<li>Full container load (FCL)</li>
+				<li>Less than container load (LCL)</li>
+				<li>Bulk</li>
+				<li>Roll on roll off (RORO)</li>
+				<li>Loose cargo</li>
+			</ul>
+		</div>
+		
+		<div class="col-md-4">
+			<h5 class="subt">AIR FREIGHT</h5>
+			
+			<ul>
+				<li>Loose cargo</li>
+				<li>Parcel shipping</li>
+			</ul>
+		</div>
+		
+		<div class="col-md-4">
+			<h5 class="subt">LAND LOGISTICS</h5>
+			
+			<ul>
+				<li>Loose Cargo transit</li>
+				<li>Container transit</li>
+				<li>Local parcel delivery</li> 
+			</ul>
+		</div>
+	
+
+	</div> <!--end of row-->
+</div>

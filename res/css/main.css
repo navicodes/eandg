@@ -1,0 +1,104 @@
+body{
+	font-size : 24px;
+}
+
+.bi {
+	font-size: 2rem;
+	color : #d87127;
+}
+
+#jump:hover {
+	color : #161742;
+}
+#jumbo {
+	font-family: 'Zilla Slab', serif !important;
+	font-weight: 700;
+	background-color : #f3d582;
+
+/*	
+	background-image : url('../img/other/containers.jpg');
+	background-blend-mode : screen;
+*/
+	
+}
+
+#contact-top {
+	background-color : #f3d582;
+
+}
+ 
+.nav-link {
+	font-size : 24px;
+	color : #161742;
+	font-family: 'Zilla Slab', serif !important;
+	font-weight: 510;
+}
+
+.nav-link:hover {
+	color: #d87127 !important;
+}
+
+.subt {
+	font-family: 'Zilla Slab', serif !important;
+	font-weight: 600;
+}
+
+.home-subt {
+	font-family: 'Zilla Slab', serif !important;
+	font-weight: 600;
+	color : #d87127;
+}
+
+.who-we-are {
+	background-color : #d87127;
+}
+
+.ft-title {
+	font-family: 'Zilla Slab', serif !important;
+	font-weight: 700;
+
+}
+.page-title {
+	font-family: 'Zilla Slab', serif !important;
+	font-weight: 600;
+	color: #d87127;
+}
+
+.abt-str {
+	font-family: 'Zilla Slab', serif !important;
+	font-weight: 600;
+	color: #d87127;
+}
+
+.serv-title {
+	font-family: 'Zilla Slab', serif !important;
+	font-weight: 600;
+}
+#footer {
+	background-color : #161742;
+}
+
+.mission-vision {
+	background-color: #d87127;
+	color : white;
+}
+
+#footer h5 {
+	color : white;
+}
+
+.ft-link{
+	font-family: 'Zilla Slab', serif !important;
+	font-size: 22px;
+	font-weight: 510;
+	color : #d87127;
+}
+
+.ft-link:hover{
+	color: white;
+}
+
+.copy {
+	color : white;
+	opacity: 25%;
+}
